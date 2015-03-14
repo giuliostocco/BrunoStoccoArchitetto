@@ -1,9 +1,38 @@
-h1 {
-    color:#af2727;
+.col-xs-2 {
+   padding: 0; 
+}
+/*container*/
+
+
+/*side bar*/
+  
+}
+.side {  
+    
 }
 
-.red {
-    width:300px;
+.side .logo {
     height:300px;
-    background-color: yellow;
+    background-color: black;
 }
+
+.side .logo img{
+    width:100%;
+    opacity: 1;
+}
+/*side bar*/
+
+.viewer {
+    padding: 0;
+}
+
+.viewer .project {
+    height: 300px;
+    background-color: yellow;
+    opacity: 1;
+}
+
+
+
+
+
